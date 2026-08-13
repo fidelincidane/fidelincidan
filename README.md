@@ -88,9 +88,9 @@ Web responsiva para una academia: hero, cursos, blog, contacto y registro, const
 
 <div align="center">
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fidelincidane&show_icons=true&theme=radical&hide_border=true)](https://github.com/fidelincidane)
+[![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fidelincidane&theme=radical)](https://github.com/fidelincidane)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelincidane&layout=compact&theme=radical&hide_border=true)](https://github.com/fidelincidane)
+[![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fidelincidane&theme=radical)](https://github.com/fidelincidane)
 
 </div>
 
