@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="proyectos/hero-light.svg#gh-light-mode-only" alt="Fidel Cortijo · Desarrollador Web Full Stack">
+# 👋 Hola, soy Fidel Cortijo
 
-<img src="proyectos/hero-dark.svg#gh-dark-mode-only" alt="Fidel Cortijo · Desarrollador Web Full Stack">
+<img src="proyectos/hero-light.svg#gh-light-mode-only" alt="Fidel Cortijo · Desarrollador Web + IA Full Stack">
+
+<img src="proyectos/hero-dark.svg#gh-dark-mode-only" alt="Fidel Cortijo · Desarrollador Web + IA Full Stack">
 
 [<img src="proyectos/conquer-logo.png#gh-light-mode-only" alt="CÓNQUER BLOCKS" width="200">](https://www.conquerblocks.com/)
 [<img src="proyectos/conquer-logo-blanco.png#gh-dark-mode-only" alt="CÓNQUER BLOCKS" width="200">](https://www.conquerblocks.com/)
-
-### 💻 Estudiante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
 
 ---
 
