@@ -40,7 +40,7 @@
 
 ## 📖 Sobre mí
 
-Soy Fidel, desarrollador web **full stack** en formación en **CÓNQUER BLOCKS** 🧠, combinando mi experiencia en automatización industrial y electricidad con la programación de aplicaciones web modernas.
+Soy Fidel, desarrollador web **full stack** en formación en **CÓNQUER BLOCKS** 🧠, combinando mi experiencia en automatización industrial  con la programación de aplicaciones web modernas y buscando la mejor funcionalidad en los procesos productivos.
 
 Me apasiona construir interfaces limpias, responsivas y funcionales, y documentar cada proyecto para que sea fácil de entender y reutilizar.
 
