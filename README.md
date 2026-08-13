@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Fidel Cortijo
+
 
 <img src="proyectos/hero-light.svg#gh-light-mode-only" alt="Fidel Cortijo · Desarrollador Web + IA Full Stack">
 
