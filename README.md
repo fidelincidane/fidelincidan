@@ -2,6 +2,8 @@
 
 # 👋 Hola, soy Fidel Cortijo
 
+[![Estudiante en Conquer Blocks](proyectos/conquer-logo.png)](https://www.conquerblocks.com/)
+
 ### 💻 Estudante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
 
 ---
@@ -20,6 +22,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Backend:** Python · Django · SQL
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
