@@ -5,6 +5,11 @@
   <img src="proyectos/hero-light.svg" alt="Fidel Cortijo · Desarrollador Web Full Stack">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="proyectos/conquer-logo-blanco.png">
+  <img src="proyectos/conquer-logo.png" alt="CÓNQUER BLOCKS" width="220">
+</picture>
+
 ---
 
 ## 🧰 Tecnologías
