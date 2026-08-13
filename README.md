@@ -1,14 +1,13 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="proyectos/hero-dark.svg">
-  <img src="proyectos/hero-light.svg" alt="Fidel Cortijo · Desarrollador Web Full Stack">
-</picture>
+<img src="proyectos/hero-light.svg#gh-light-mode-only" alt="Fidel Cortijo · Desarrollador Web Full Stack">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="proyectos/conquer-logo-blanco.png">
-  <img src="proyectos/conquer-logo.png" alt="CÓNQUER BLOCKS" width="220">
-</picture>
+<img src="proyectos/hero-dark.svg#gh-dark-mode-only" alt="Fidel Cortijo · Desarrollador Web Full Stack">
+
+[<img src="proyectos/conquer-logo.png#gh-light-mode-only" alt="CÓNQUER BLOCKS" width="200">](https://www.conquerblocks.com/)
+[<img src="proyectos/conquer-logo-blanco.png#gh-dark-mode-only" alt="CÓNQUER BLOCKS" width="200">](https://www.conquerblocks.com/)
+
+### 💻 Estudiante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
 
 ---
 
