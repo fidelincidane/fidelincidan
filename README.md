@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Fidel Cortijo
 
-### 💻 Estudante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
+### 💻 Estudiante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
 
 ---
 
