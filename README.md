@@ -4,7 +4,7 @@
 
 [![Estudiante en Conquer Blocks](proyectos/conquer-logo.png)](https://www.conquerblocks.com/)
 
-### 💻 Estudante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
+### 💻 Estudiante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
 
 ---
 
