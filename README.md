@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Hola, soy Fidel Cortijo
-
-[![Estudiante en Conquer Blocks](proyectos/conquer-logo.png)](https://www.conquerblocks.com/)
-
-### 💻 Estudiante de Desarrollo Web Full Stack · ⚡ Automatización Industrial
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="proyectos/hero-dark.svg">
+  <img src="proyectos/hero-light.svg" alt="Fidel Cortijo · Desarrollador Web Full Stack">
+</picture>
 
 ---
 
