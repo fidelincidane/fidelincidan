@@ -64,6 +64,8 @@ Landing page para un spa y centro de belleza, desarrollada con una estructura re
 
 🔗 [Repositorio](https://github.com/fidelincidane/header-spa-beauty) · 🌍 [Demo en vivo](https://fidelincidane.github.io/header-spa-beauty/)
 
+<img src="https://raw.githubusercontent.com/fidelincidane/header-spa-beauty/main/img/woman.png" alt="Header SPA Beauty" width="420">
+
 ---
 
 ### 02 · Header Gathsession
@@ -74,6 +76,8 @@ Proyecto de maquetación web responsive, centrado en la construcción de una int
 
 🔗 [Repositorio](https://github.com/fidelincidane/header-gathsession) · 🌍 [Demo en vivo](https://fidelincidane.github.io/header-gathsession/)
 
+<img src="https://raw.githubusercontent.com/fidelincidane/header-gathsession/main/img/img1.png" alt="Header Gathsession" width="420">
+
 ---
 
 ### 03 · Modern Art Gallery
@@ -83,6 +87,8 @@ Landing page inspirada en una galería de arte moderna, trabajando especialmente
 🛠️ **HTML5 · Sass · JavaScript · Vite · Responsive Design**
 
 🔗 [Repositorio](https://github.com/fidelincidane/modern-art-gallery) · 🌍 [Demo en vivo](https://fidelincidane.github.io/modern-art-gallery/)
+
+<img src="https://raw.githubusercontent.com/fidelincidane/modern-art-gallery/main/img/Bitmap.png" alt="Modern Art Gallery" width="420">
 
 ---
 
@@ -154,6 +160,8 @@ Es el proyecto que representa el salto desde el desarrollo frontend hacia una ap
 
 🔗 [Repositorio](https://github.com/fidelincidane/mantenimiento-app)
 
+<img src="https://raw.githubusercontent.com/fidelincidane/mantenimiento-app/main/media/fotos_correctivo/Captura_de_pantalla_2026-03-09_052052.png" alt="Mantenimiento App" width="420">
+
 > 🚧 Proyecto en evolución.
 
 ---
@@ -172,7 +180,6 @@ JavaScript + DOM + localStorage
 JavaScript + REST APIs + Fetch
      ↓
 Python + Django + Bases de datos
-     ↓
      ↓
 Full Stack
 ```
