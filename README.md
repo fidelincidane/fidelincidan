@@ -52,35 +52,137 @@ Me apasiona construir interfaces limpias, responsivas y funcionales, y documenta
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos
 
-### 🧪 Rick and Morty Explorer
-Aplicación que consume **The Rick and Morty API**: búsqueda en tiempo real, filtros por estado, detalle con episodios, favoritos con `localStorage` y diseño responsivo.
+Proyectos ordenados de forma progresiva, mostrando mi evolución desde la maquetación web y el diseño responsive hasta JavaScript, consumo de APIs y desarrollo full stack.
 
-🔗 [Repositorio](https://github.com/fidelincidane/Rick-and-Morty-Explorer) · 🌍 [Demo en vivo](https://fidelincidane.github.io/Rick-and-Morty-Explorer/)
+### 01 · Header SPA Beauty
 
-![Rick and Morty Explorer](proyectos/rick-morty.png)
+Landing page para un spa y centro de belleza, desarrollada con una estructura responsive y componentes visuales para servicios, tratamientos y contacto.
 
-### 🧮 Ejercicios JavaScript
-Colección de **9 ejercicios** de manipulación del DOM, eventos y `localStorage`: cambiador de color, calculadora, temporizador, lista de tareas y más.
+🛠️ **HTML5 · Sass · JavaScript · Vite · Responsive Design**
+
+🔗 [Repositorio](https://github.com/fidelincidane/header-spa-beauty) · 🌍 [Demo en vivo](https://fidelincidane.github.io/header-spa-beauty/)
+
+<img src="https://raw.githubusercontent.com/fidelincidane/header-spa-beauty/main/img/woman.png" alt="Header SPA Beauty" width="420">
+
+---
+
+### 02 · Header Gathsession
+
+Proyecto de maquetación web responsive, centrado en la construcción de una interfaz moderna utilizando Sass y Vite.
+
+🛠️ **HTML5 · Sass · JavaScript · Vite · Responsive Design**
+
+🔗 [Repositorio](https://github.com/fidelincidane/header-gathsession) · 🌍 [Demo en vivo](https://fidelincidane.github.io/header-gathsession/)
+
+<img src="https://raw.githubusercontent.com/fidelincidane/header-gathsession/main/img/img1.png" alt="Header Gathsession" width="420">
+
+---
+
+### 03 · Modern Art Gallery
+
+Landing page inspirada en una galería de arte moderna, trabajando especialmente la composición visual, responsive design y adaptación a diferentes tamaños de pantalla.
+
+🛠️ **HTML5 · Sass · JavaScript · Vite · Responsive Design**
+
+🔗 [Repositorio](https://github.com/fidelincidane/modern-art-gallery) · 🌍 [Demo en vivo](https://fidelincidane.github.io/modern-art-gallery/)
+
+<img src="https://raw.githubusercontent.com/fidelincidane/modern-art-gallery/main/img/Bitmap.png" alt="Modern Art Gallery" width="420">
+
+---
+
+### 04 · Ejercicios JavaScript
+
+Colección de **9 ejercicios prácticos** para trabajar los fundamentos de JavaScript y la interacción con el navegador.
+
+Incluye manipulación del DOM, eventos, formularios, temporizadores, calculadora, lista de tareas, cambio de estilos y persistencia mediante `localStorage`.
+
+🛠️ **HTML5 · CSS3 · JavaScript · DOM · Events · localStorage**
 
 🔗 [Repositorio](https://github.com/fidelincidane/ejercicios-js) · 🌍 [Demo en vivo](https://fidelincidane.github.io/ejercicios-js/)
 
 ![Ejercicios JavaScript](proyectos/ejercicios-js.png)
 
-### 👤 Portfolio
-Portfolio personal **responsivo** (móvil, tableta y desktop) construido con **HTML + Sass + Vite**.
+---
+
+### 05 · Academia
+
+Web responsive para una academia con diferentes secciones de contenido, cursos, blog, contacto y registro.
+
+Proyecto desarrollado siguiendo metodología **mobile-first**, arquitectura **BEM** y utilizando Sass y Vite.
+
+🛠️ **HTML5 · Sass · JavaScript · Vite · BEM · Responsive Design**
+
+🔗 [Repositorio](https://github.com/fidelincidane/academia) · 🌍 [Demo en vivo](https://fidelincidane.github.io/academia/)
+
+<img src="proyectos/academia.png" alt="Academia" width="420">
+
+---
+
+### 06 · Portfolio
+
+Portfolio personal responsive desarrollado para mostrar proyectos, tecnologías y experiencia como desarrollador web.
+
+Diseñado siguiendo una estrategia **mobile-first**, con Sass, Vite y JavaScript mediante módulos ES.
+
+🛠️ **HTML5 · Sass · JavaScript · Vite · ES Modules · Responsive Design**
 
 🔗 [Repositorio](https://github.com/fidelincidane/portfolio) · 🌍 [Demo en vivo](https://fidelincidane.github.io/portfolio/)
 
 <img src="proyectos/portfolio.png" alt="Portfolio" width="420">
 
-### 🎓 Academia
-Web responsiva para una academia: hero, cursos, blog, contacto y registro, construida con **HTML + Sass + Vite**.
+---
 
-🔗 [Repositorio](https://github.com/fidelincidane/academia) · 🌍 [Demo en vivo](https://fidelincidane.github.io/academia/)
+### 07 · Rick and Morty Explorer
 
-<img src="proyectos/academia.png" alt="Academia" width="420">
+Aplicación web que consume una **API REST** para consultar información de personajes de Rick and Morty.
+
+Incluye búsqueda, filtros por estado, paginación, detalle de personajes y episodios y sistema de favoritos utilizando `localStorage`.
+
+🛠️ **HTML5 · CSS3 · JavaScript · Fetch API · REST API · localStorage · Responsive Design**
+
+🔗 [Repositorio](https://github.com/fidelincidane/Rick-and-Morty-Explorer) · 🌍 [Demo en vivo](https://fidelincidane.github.io/Rick-and-Morty-Explorer/)
+
+![Rick and Morty Explorer](proyectos/rick-morty.png)
+
+---
+
+### 08 · Mantenimiento App
+
+Aplicación web **full stack** orientada a la gestión de mantenimiento preventivo y correctivo.
+
+Permite gestionar equipos, usuarios, incidencias y evidencias, además de generar informes y trabajar con almacenamiento de imágenes.
+
+Es el proyecto que representa el salto desde el desarrollo frontend hacia una aplicación web completa con backend y base de datos.
+
+🛠️ **Python · Django · Bootstrap 5 · SQLite · PostgreSQL · Cloudinary · Gunicorn · Whitenoise**
+
+🔗 [Repositorio](https://github.com/fidelincidane/mantenimiento-app)
+
+<img src="https://raw.githubusercontent.com/fidelincidane/mantenimiento-app/main/media/fotos_correctivo/Captura_de_pantalla_2026-03-09_052052.png" alt="Mantenimiento App" width="420">
+
+> 🚧 Proyecto en evolución.
+
+---
+
+### 🏆 Evolución tecnológica
+
+```text
+HTML / CSS
+     ↓
+Sass + Responsive Design
+     ↓
+Vite + BEM
+     ↓
+JavaScript + DOM + localStorage
+     ↓
+JavaScript + REST APIs + Fetch
+     ↓
+Python + Django + Bases de datos
+     ↓
+Full Stack
+```
 
 ---
 
