@@ -76,7 +76,7 @@ Portfolio personal **responsivo** (móvil, tableta y desktop) construido con **H
 <img src="proyectos/portfolio.png" alt="Portfolio" width="420">
 
 ### 🎓 Academia
-Web responsiva para una academia: hero, cursos, blog, contacto y registro, construida con **HTML + Sass + Vite**.
+Web responsiva para una academia: hero, cursos, blog, contacto y registro, construida con **HTML + SCSS +Sass + Vite**.
 
 🔗 [Repositorio](https://github.com/fidelincidane/academia) · 🌍 [Demo en vivo](https://fidelincidane.github.io/academia/)
 
