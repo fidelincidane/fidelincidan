@@ -69,14 +69,14 @@ Colección de **9 ejercicios** de manipulación del DOM, eventos y `localStorage
 ![Ejercicios JavaScript](proyectos/ejercicios-js.png)
 
 ### 👤 Portfolio
-Portfolio personal **responsivo** (móvil, tableta y desktop) construido con **HTML + Sass + Vite**.
+Portfolio personal **responsivo** (móvil, tableta y desktop) construido con **HTML + CSS + Sass + Vite**.
 
 🔗 [Repositorio](https://github.com/fidelincidane/portfolio) · 🌍 [Demo en vivo](https://fidelincidane.github.io/portfolio/)
 
 <img src="proyectos/portfolio.png" alt="Portfolio" width="420">
 
 ### 🎓 Academia
-Web responsiva para una academia: hero, cursos, blog, contacto y registro, construida con **HTML + SCSS +Sass + Vite**.
+Web responsiva para una academia: hero, cursos, blog, contacto y registro, construida con **HTML + CSS + Sass + Vite**.
 
 🔗 [Repositorio](https://github.com/fidelincidane/academia) · 🌍 [Demo en vivo](https://fidelincidane.github.io/academia/)
 
